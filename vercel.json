@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "buildCommand": null,
+  "devCommand": null,
+  "framework": null,
+  "installCommand": null,
+  "outputDirectory": null,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
